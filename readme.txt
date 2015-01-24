@@ -5,4 +5,4 @@ Git tracks changes of files.
 wangsan is a good person.
 yeath u are,very good
 add by new branch dev
-reating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
